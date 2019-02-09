@@ -1,6 +1,6 @@
 ###########################
 # 6.0002 Problem Set 1a: Space Cows 
-# Name: Anthony
+# Name: Anthony Lem
 # Collaborators:
 # Time:
 
