@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Problem Set 5: Experimental Analysis
-# Name: Anthony
+# Name: Anthony Lem
 # Collaborators (discussion):
 # Time:
 
