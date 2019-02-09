@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Problem Set 3: Simulating robots
-# Name: Anthony
+# Name: Anthony Lem
 # Collaborators (discussion):
 # Time:
 
