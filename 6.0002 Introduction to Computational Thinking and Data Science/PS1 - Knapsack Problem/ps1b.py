@@ -1,6 +1,6 @@
 ###########################
 # 6.0002 Problem Set 1b: Space Change
-# Name: Anthony
+# Name: Anthony Lem
 # Collaborators:
 # Time:
 # Author: charz, cdenise
