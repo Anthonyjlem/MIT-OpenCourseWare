@@ -1,6 +1,6 @@
 # 6.0002 Problem Set 2
 # Graph optimization
-# Name: Anthony
+# Name: Anthony Lem
 # Collaborators:
 # Time:
 
