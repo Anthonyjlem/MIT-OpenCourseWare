@@ -1,5 +1,5 @@
 # Problem Set 4: Simulating the Spread of Disease and Bacteria Population Dynamics
-# Name: Anthony
+# Name: Anthony Lem
 # Collaborators (Discussion):
 # Time:
 
